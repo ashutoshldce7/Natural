@@ -1,6 +1,7 @@
 /* Sample Natural ADABAS Program */
 
 /* Define the map */
+/* Define the map */
 DEFINE DATA LOCAL
 1 EMPLOYEE-VIEW VIEW OF EMPLOYEES
   2 PERSONNEL-ID
